@@ -1,6 +1,10 @@
-pip install flask
-pip install paho-mqtt
-python app.py
+# พิมพ์ลงใน Command
+
+# 1. pip install flask
+
+# 2. pip install paho-mqtt
+
+# 3. python app.py
 
 import paho.mqtt.client as mqttclient
 import time
